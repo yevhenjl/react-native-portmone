@@ -1,0 +1,18 @@
+{
+  "$schema": "https://nitro.margelo.com/nitro.schema.json",
+  "cxxNamespace": ["hfportmone"],
+  "ios": {
+    "iosModuleName": "NitroHfPortmone"
+  },
+  "android": {
+    "androidNamespace": ["hfportmone"],
+    "androidCxxLibName": "HybridHfPortmone"
+  },
+  "autolinking": {
+    "HfPortmone": {
+      "swift": "HybridHfPortmone",
+      "kotlin": "HybridHfPortmone"
+    }
+  },
+  "ignorePaths": ["**/node_modules"]
+}

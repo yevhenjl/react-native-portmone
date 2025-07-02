@@ -1,0 +1,10 @@
+{
+  "expo.jsEngine": "hermes",
+  "EX_DEV_CLIENT_NETWORK_INSPECTOR": "true",
+  "newArchEnabled": "true",
+  "ios.deploymentTarget": "16.6",
+  "ios.useFrameworks": "static",
+  "apple.extraPods": "[{\"name\":\"PortmoneSDKEcom\",\"configurations\":[\"Release\",\"Debug\"],\"version\":\"1.7.22\"}]",
+  "apple.ccacheEnabled": "false",
+  "apple.privacyManifestAggregationEnabled": "true"
+}
