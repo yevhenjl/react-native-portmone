@@ -1,10 +1,10 @@
 # **react-native-portmone**
 
-A React Native wrapper for the Portmone iOS SDK, enabling seamless integration of Portmone payment processing in your React Native applications.
+A React Native wrapper for the Portmone SDK (iOS and Android), enabling seamless integration of Portmone payment processing in your React Native applications.
 
 ## **Overview**
 
-This library provides a React Native interface to Portmone's eCommerce iOS SDK, allowing your users to make payments with credit and debit cards, save cards for future use, and process token-based payments.
+This library provides a React Native interface to Portmone's eCommerce SDK, allowing your users to make payments with credit and debit cards, save cards for future use, and process token-based payments.
 
 ## **Features**
 
