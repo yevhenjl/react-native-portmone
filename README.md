@@ -531,3 +531,8 @@ Contact Portmone at: commerce@portmone.me
 ## **Credits**
 
 Built with [Nitro Modules](https://github.com/mrousavy/nitro) by [Marc Rousavy](https://github.com/mrousavy)
+
+## **TODO**
+
+- [ ] Add bare React Native installation info (without Expo)
+- [ ] Implement documentation based on Docusaurus
